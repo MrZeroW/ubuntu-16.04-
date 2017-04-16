@@ -1,0 +1,5 @@
+微软字体添加
+复制win c:\\windows\fonts
+将其中的 *.ttf 和 simsun.ttc 复制到/usr/share/fonts/truetype/openoffice/  下
+权限查看  若不是644 更改
+更新缓存  sudo fc-cache -fv
